@@ -2,7 +2,7 @@
 
 Used technology:
   - Maven
-	- Spring Boot
+  - Spring Boot
   - Spring Data JPA
   - Spring MVC
   - Postgresql Database
