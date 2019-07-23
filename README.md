@@ -1,4 +1,4 @@
-**_Webapp fo sister _** 
+**_Webapp for sister _** 
 
 Used technology:
   - Maven
