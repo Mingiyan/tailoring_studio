@@ -6,4 +6,3 @@ Used technology:
   - Spring Data JPA
   - Spring MVC
   - Postgresql Database
-  - JSP
